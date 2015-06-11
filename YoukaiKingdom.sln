@@ -5,7 +5,12 @@ VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YoukaiKingdom", "YoukaiKingdom\YoukaiKingdom\YoukaiKingdom.csproj", "{AD46C0ED-E10D-42EF-B54C-E545ABD4F100}"
 EndProject
-Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "YoukaiKingdomContent", "YoukaiKingdom\YoukaiKingdomContent\YoukaiKingdomContent.contentproj", "{87A966E4-5D5C-49F7-A738-7A4E88FF791C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YoukaiKingdomContent", "YoukaiKingdom\YoukaiKingdomContent\YoukaiKingdomContent.contentproj", "{87A966E4-5D5C-49F7-A738-7A4E88FF791C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{DBABB581-6D24-4348-96F5-5616F2FF3E1F}"
+	ProjectSection(SolutionItems) = preProject
+		YoukaiKingdom\game classes.jpg = YoukaiKingdom\game classes.jpg
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
